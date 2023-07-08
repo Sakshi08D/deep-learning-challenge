@@ -1,7 +1,7 @@
 # deep-learning-challenge
 ## Alphabet Soup Charity - Neural Network Analysis Report
 ## Overview of the Analysis
-** The purpose of this analysis is to use deep learning to interpret the dataset provided by Alphabet Soup's Charity. Alphabet Soup's business team has compiled a list of over 34,000 organizations that have received funding from Alphabet Soup over the years. This report aims to create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup, using the features in the dataset.
+The purpose of this analysis is to use deep learning to interpret the dataset provided by Alphabet Soup's Charity. Alphabet Soup's business team has compiled a list of over 34,000 organizations that have received funding from Alphabet Soup over the years. This report aims to create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup, using the features in the dataset.
 
 ## Results
 ## Data Preprocessing
